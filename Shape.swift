@@ -6,8 +6,3 @@ struct Shape: View {
     }
 }
 
-struct ShapePreview: PreviewProvider {
-    static var previews: some View {
-        Shape()
-    }
-}
