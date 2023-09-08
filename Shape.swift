@@ -1,10 +1,3 @@
-//
-//  Shape.swift
-//  ShapeStack
-//
-//  Created by Quinn B. Davis on 9/8/23.
-//
-
 import SwiftUI
 
 struct Shape: View {
@@ -13,7 +6,7 @@ struct Shape: View {
     }
 }
 
-struct Shape_Previews: PreviewProvider {
+struct ShapePreview: PreviewProvider {
     static var previews: some View {
         Shape()
     }
